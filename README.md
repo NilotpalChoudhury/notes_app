@@ -5,7 +5,7 @@ A full-stack notes app I built using MongoDB, Express, React (Vite), and Node.js
 ## Candidate Details
 - **Name:** Nilotpal Choudhury
 - **Student ID:** 2026202005
-- **GitHub Repository:** 
+- **GitHub Repository:** https://github.com/NilotpalChoudhury/notes_app 
 
 ## Tech Stack
 - **Frontend:** React (Vite) + Axios
